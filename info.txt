@@ -1,0 +1,21 @@
++===================================+
+| New Account Info                  |
++===================================+
+| Domain: testgit.com
+| Ip: 213.175.214.220 (n)
+| HasCgi: y
+| UserName: wwwtestg
+| PassWord: }{=0_8ni%nFS
+| CpanelMod: x3
+| HomeRoot: /home
+| Quota: unlimited Meg
+| NameServer1: ns11379.ukvpshosting.com
+| NameServer2: ns11380.ukvpshosting.com
+| NameServer3: 
+| NameServer4: 
+| Contact Email: sie@medusamediacreations.co.uk
+| Package: testgit
+| Feature List: default
+| Language: en
++===================================+
+...Done
