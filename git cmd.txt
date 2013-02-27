@@ -7,3 +7,16 @@ git remote -v
 git clone ssh://wwwtestg@213.175.214.220/var/gitroot/project.git
 
 git clone ssh://wwwtestg@213.175.214.220/public_html/project.git
+
+git clone ssh://wwwtestg@213.175.214.220/public_html/.git
+
+git clone ssh://wwwtestg@testgit.com/home/wwwtestg/public_html/.git
+
+git clone ssh://wwwtestg@213.175.214.220/home/wwwtestg/public_html/.git
+
+git clone ssh://wwwtestg@213.175.214.220/home/wwwtestg/public_html/gitroot
+
+
+
+git clone git@github.com:jajouka79/testgit.git
+git clone git://github.com/jajouka79/testgit.git
