@@ -1,2 +1,9 @@
 git remote show origin
 
+git remote
+
+git remote -v
+
+git clone ssh://wwwtestg@213.175.214.220/var/gitroot/project.git
+
+git clone ssh://wwwtestg@213.175.214.220/public_html/project.git
